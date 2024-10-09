@@ -1,7 +1,7 @@
 public class Test
   {
-    publoc static void main(string[] args)
+    public static void main(String[] args)
     {
-      system.out.println('java github jenkins")
+      system.out.println("java github jenkins")
         }
   }
